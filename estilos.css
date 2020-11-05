@@ -1,6 +1,14 @@
 
 ﻿h1{
 
-color:red;
+color: red;
 font-family: Verdana;
-]
+}
+.tabla{
+padding: 20px; 
+}
+
+.tabla_div{
+padding: 20px;
+background-color:aqua;
+}
