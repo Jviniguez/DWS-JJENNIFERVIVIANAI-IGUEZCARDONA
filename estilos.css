@@ -1,14 +1,47 @@
+body{
+background-color:#F0B429;
+font-family'Franklin Gothic Medium','Arial Narrow',Arial,sans-serif;
 
-﻿h1{
-
-color: red;
-font-family: Verdana;
 }
+.titulo{
+text-align:center;
+font-family'Franklin Gothic Medium','Arial Narrow',Arial,sans-serif;
+}
+
+.menu{ 
+padding:20px;
+background-color:#50B748;
+width:100%
+text-align:center
+text-color: red;
+
+
+}
+
 .tabla{
-padding: 20px; 
+width:80%;
+margin:90 ;
+
+
 }
 
-.tabla_div{
-padding: 20px;
+.tabla1{
+width:80
+margin:90 ;
+border="1"
+
+}
+
+.imagen1{
+width:80%;
+margin:90 ;
+
+}
+.tabladiv{
+padding:20px;
 background-color:aqua;
+}
+
+.twitter-tweet{
+	text-align:center;
 }
